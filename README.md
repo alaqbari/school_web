@@ -13,3 +13,7 @@ and the one who records students finds all the information in an arranged table 
 he uses many things and simplifies many things for the business owner, 
 God willing. I hope it will be useful. This project and to receive the certificate after sending this project, 
 God willing, the Most Gracious, may God’s prayers and blessings be upon him
+
+I categorize my project in five the first one is the home page the home page is where the person comes and to look at what the system looks like it's in the logo and the name of the organization and when you click on the contact in the contact is money links like registration and data when you are clear that registration you see The form that the person puts is and the bad name and phone number and education level and then you click on the data link you can see the data boot into where you are. To delete personally and you can update the data personally, well, I finish the home page, contact, receive registration, data, and the last one talks about who creates this system or what this system looks like or what the system does well and this system is half of the footer footer writes the time of writing the system and the name of the system The difference is thank you good life
+
+I'm a beginner I understand something in the course I don't have a team to do with me the project and I do the project visually I thank all the teachers and students
